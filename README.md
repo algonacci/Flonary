@@ -1,4 +1,4 @@
-# cat_dog_classifier
+# Flonary
 
 A new Flutter project.
 
